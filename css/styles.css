@@ -10141,15 +10141,15 @@ header.masthead h1 {
   transition: opacity 0.25s ease;
   text-align: center;
 }
-#portfolio2 .container-fluid .portfolio2-box .portfolio2-box-caption .project-category, #portfolio2 .container-sm .portfolio2-box .portfolio2-box-caption .project-category, #portfolio2 .container-md .portfolio2-box .portfolio2-box-caption .project-category, #portfolio2 .container-lg .portfolio2-box .portfolio2-box-caption .project-category, #portfolio2 .container-xl .portfolio2-box .portfolio2-box-caption .project-category {
+#portfolio2 .container-fluid .portfolio2-box .portfolio2-box-caption .project2-category, #portfolio2 .container-sm .portfolio2-box .portfolio2-box-caption .project2-category, #portfolio2 .container-md .portfolio2-box .portfolio2-box-caption .project2-category, #portfolio2 .container-lg .portfolio2-box .portfolio2-box-caption .project2-category, #portfolio2 .container-xl .portfolio2-box .portfolio2-box-caption .project2-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
-#portfolio .container-fluid .portfolio2-box .portfolio2-box-caption .project-name, #portfolio2 .container-sm .portfolio2-box .portfolio2-box-caption .project-name, #portfolio2 .container-md .portfolio2-box .portfolio2-box-caption .project-name, #portfolio2 .container-lg .portfolio2-box .portfolio2-box-caption .project-name, #portfolio2 .container-xl .portfolio2-box .portfolio2-box-caption .project-name {
+#portfolio2 .container-fluid .portfolio2-box .portfolio2-box-caption .project2-name, #portfolio2 .container-sm .portfolio2-box .portfolio2-box-caption .project2-name, #portfolio2 .container-md .portfolio2-box .portfolio2-box-caption .project2-name, #portfolio2 .container-lg .portfolio2-box .portfolio2-box-caption .project2-name, #portfolio2 .container-xl .portfolio2-box .portfolio2-box-caption .project2-name {
   font-size: 1.2rem;
 }
-#portfolio .container-fluid .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-sm .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-md .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-lg .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-xl .portfolio2-box:hover .portfolio2-box-caption {
+#portfolio2 .container-fluid .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-sm .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-md .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-lg .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-xl .portfolio2-box:hover .portfolio2-box-caption {
   opacity: 1;
 }
