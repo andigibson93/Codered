@@ -10077,6 +10077,167 @@ header.masthead h1 {
   }
 }
 
+header.masthead1 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/Landscape/31.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+header.masthead1 h1 {
+  font-size: 2.25rem;
+}
+@media (min-width: 992px) {
+  header.masthead1 {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
+  header.masthead1 p {
+    font-size: 1.15rem;
+  }
+  header.masthead1 h1 {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 1200px) {
+  header.masthead1 h1 {
+    font-size: 3.5rem;
+  }
+}
+
+
+header.masthead2 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/Landscape/32.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+header.masthead2 h1 {
+  font-size: 2.25rem;
+}
+@media (min-width: 992px) {
+  header.masthead2 {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
+  header.masthead2 p {
+    font-size: 1.15rem;
+  }
+  header.masthead2 h1 {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 1200px) {
+  header.masthead2 h1 {
+    font-size: 3.5rem;
+  }
+}
+
+header.masthead3 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/Landscape/34.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+header.masthead3 h1 {
+  font-size: 2.25rem;
+}
+@media (min-width: 992px) {
+  header.masthead3 {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
+  header.masthead3 p {
+    font-size: 1.15rem;
+  }
+  header.masthead3 h1 {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 1200px) {
+  header.masthead3 h1 {
+    font-size: 3.5rem;
+  }
+}
+
+header.masthead4 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/Landscape/27.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+header.masthead4 h1 {
+  font-size: 2.25rem;
+}
+@media (min-width: 992px) {
+  header.masthead4 {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
+  header.masthead4 p {
+    font-size: 1.15rem;
+  }
+  header.masthead4 h1 {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 1200px) {
+  header.masthead4 h1 {
+    font-size: 3.5rem;
+  }
+}
+
+header.masthead5 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/Landscape/28.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+header.masthead5 h1 {
+  font-size: 2.25rem;
+}
+@media (min-width: 992px) {
+  header.masthead5 {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
+  header.masthead5 p {
+    font-size: 1.15rem;
+  }
+  header.masthead5 h1 {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 1200px) {
+  header.masthead5 h1 {
+    font-size: 3.5rem;
+  }
+}
+
 #portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl {
   max-width: 1920px;
 }
@@ -10151,5 +10312,124 @@ header.masthead h1 {
   font-size: 1.2rem;
 }
 #portfolio2 .container-fluid .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-sm .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-md .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-lg .portfolio2-box:hover .portfolio2-box-caption, #portfolio2 .container-xl .portfolio2-box:hover .portfolio2-box-caption {
+  opacity: 1;
+}
+
+
+
+
+
+
+#portfolio3 .container-fluid, #portfolio3 .container-sm, #portfolio3 .container-md, #portfolio3 .container-lg, #portfolio3 .container-xl {
+  max-width: 1920px;
+}
+#portfolio3 .container-fluid .portfolio3-box, #portfolio3 .container-sm .portfolio3-box, #portfolio3 .container-md .portfolio3-box, #portfolio3 .container-lg .portfolio3-box, #portfolio3 .container-xl .portfolio3-box {
+  position: relative;
+  display: block;
+}
+#portfolio3 .container-fluid .portfolio3-box .portfolio3-box-caption, #portfolio3 .container-sm .portfolio3-box .portfolio3-box-caption, #portfolio3 .container-md .portfolio3-box .portfolio3-box-caption, #portfolio3 .container-lg .portfolio3-box .portfolio3-box-caption, #portfolio3 .container-xl .portfolio3-box .portfolio3-box-caption {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  opacity: 0;
+  color: #fff;
+  background: rgba(244, 98, 58, 0.9);
+  transition: opacity 0.25s ease;
+  text-align: center;
+}
+#portfolio3 .container-fluid .portfolio3-box .portfolio3-box-caption .project3-category, #portfolio3 .container-sm .portfolio3-box .portfolio3-box-caption .project3-category, #portfolio3 .container-md .portfolio3-box .portfolio3-box-caption .project3-category, #portfolio3 .container-lg .portfolio3-box .portfolio3-box-caption .project3-category, #portfolio3 .container-xl .portfolio3-box .portfolio3-box-caption .project3-category {
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+#portfolio3 .container-fluid .portfolio3-box .portfolio3-box-caption .project3-name, #portfolio3 .container-sm .portfolio3-box .portfolio3-box-caption .project3-name, #portfolio3 .container-md .portfolio3-box .portfolio3-box-caption .project3-name, #portfolio3 .container-lg .portfolio3-box .portfolio3-box-caption .project3-name, #portfolio3 .container-xl .portfolio3-box .portfolio3-box-caption .project3-name {
+  font-size: 1.2rem;
+}
+#portfolio3 .container-fluid .portfolio3-box:hover .portfolio3-box-caption, #portfolio3 .container-sm .portfolio3-box:hover .portfolio3-box-caption, #portfolio3 .container-md .portfolio3-box:hover .portfolio3-box-caption, #portfolio3 .container-lg .portfolio3-box:hover .portfolio3-box-caption, #portfolio3 .container-xl .portfolio3-box:hover .portfolio3-box-caption {
+  opacity: 1;
+}
+
+
+
+
+#portfolio4 .container-fluid, #portfolio4 .container-sm, #portfolio4 .container-md, #portfolio4 .container-lg, #portfolio4 .container-xl {
+  max-width: 1920px;
+}
+#portfolio4 .container-fluid .portfolio4-box, #portfolio4 .container-sm .portfolio4-box, #portfolio4 .container-md .portfolio4-box, #portfolio4 .container-lg .portfolio4-box, #portfolio4 .container-xl .portfolio4-box {
+  position: relative;
+  display: block;
+}
+#portfolio4 .container-fluid .portfolio4-box .portfolio4-box-caption, #portfolio4 .container-sm .portfolio4-box .portfolio4-box-caption, #portfolio4 .container-md .portfolio4-box .portfolio4-box-caption, #portfolio4 .container-lg .portfolio4-box .portfolio4-box-caption, #portfolio4 .container-xl .portfolio4-box .portfolio4-box-caption {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  opacity: 0;
+  color: #fff;
+  background: rgba(244, 98, 58, 0.9);
+  transition: opacity 0.25s ease;
+  text-align: center;
+}
+#portfolio4 .container-fluid .portfolio4-box .portfolio4-box-caption .project4-category, #portfolio4 .container-sm .portfolio4-box .portfolio4-box-caption .project4-category, #portfolio4 .container-md .portfolio4-box .portfolio4-box-caption .project-category, #portfolio4 .container-lg .portfolio4-box .portfolio4-box-caption .project4-category, #portfolio4 .container-xl .portfolio4-box .portfolio4-box-caption .project4-category {
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+#portfolio4 .container-fluid .portfolio4-box .portfolio4-box-caption .project4-name, #portfolio4 .container-sm .portfolio4-box .portfolio4-box-caption .project4-name, #portfolio4 .container-md .portfolio4-box .portfolio4-box-caption .project-name, #portfolio4 .container-lg .portfolio4-box .portfolio4-box-caption .project4-name, #portfolio4 .container-xl .portfolio4-box .portfolio4-box-caption .project4-name {
+  font-size: 1.2rem;
+}
+#portfolio4 .container-fluid .portfolio4-box:hover .portfolio4-box-caption, #portfolio4 .container-sm .portfolio4-box:hover .portfolio4-box-caption, #portfolio4 .container-md .portfolio4-box:hover .portfolio4-box-caption, #portfolio4 .container-lg .portfolio4-box:hover .portfolio4-box-caption, #portfolio4 .container-xl .portfolio4-box:hover .portfolio4-box-caption {
+  opacity: 1;
+}
+
+
+
+
+#portfolio5 .container-fluid, #portfolio5 .container-sm, #portfolio5 .container-md, #portfolio5 .container-lg, #portfolio5 .container-xl {
+  max-width: 1920px;
+}
+#portfolio5 .container-fluid .portfolio5-box, #portfolio5 .container-sm .portfolio5-box, #portfolio5 .container-md .portfolio5-box, #portfolio5 .container-lg .portfolio5-box, #portfolio5 .container-xl .portfolio5-box {
+  position: relative;
+  display: block;
+}
+#portfolio5 .container-fluid .portfolio5-box .portfolio5-box-caption, #portfolio5 .container-sm .portfolio5-box .portfolio5-box-caption, #portfolio5 .container-md .portfolio5-box .portfolio5-box-caption, #portfolio5 .container-lg .portfolio5-box .portfolio5-box-caption, #portfolio5 .container-xl .portfolio5-box .portfolio5-box-caption {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  opacity: 0;
+  color: #fff;
+  background: rgba(244, 98, 58, 0.9);
+  transition: opacity 0.25s ease;
+  text-align: center;
+}
+#portfolio5 .container-fluid .portfolio5-box .portfolio5-box-caption .project5-category, #portfolio5 .container-sm .portfolio5-box .portfolio5-box-caption .project5-category, #portfolio5 .container-md .portfolio5-box .portfolio5-box-caption .project-category, #portfolio5 .container-lg .portfolio5-box .portfolio5-box-caption .project5-category, #portfolio5 .container-xl .portfolio5-box .portfolio5-box-caption .project5-category {
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+#portfolio5 .container-fluid .portfolio5-box .portfolio5-box-caption .project5-name, #portfolio5 .container-sm .portfolio5-box .portfolio5-box-caption .project5-name, #portfolio5 .container-md .portfolio5-box .portfolio5-box-caption .project-name, #portfolio5 .container-lg .portfolio5-box .portfolio5-box-caption .project5-name, #portfolio5 .container-xl .portfolio5-box .portfolio5-box-caption .project5-name {
+  font-size: 1.2rem;
+}
+#portfolio5 .container-fluid .portfolio5-box:hover .portfolio5-box-caption, #portfolio5 .container-sm .portfolio5-box:hover .portfolio5-box-caption, #portfolio5 .container-md .portfolio5-box:hover .portfolio5-box-caption, #portfolio5 .container-lg .portfolio5-box:hover .portfolio5-box-caption, #portfolio5 .container-xl .portfolio5-box:hover .portfolio5-box-caption {
   opacity: 1;
 }
